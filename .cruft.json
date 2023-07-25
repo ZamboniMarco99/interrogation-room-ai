@@ -1,0 +1,23 @@
+{
+  "template": "git@github.com:baggiponte/chef",
+  "commit": "242940ef5dc429b8de074097920dff4c94edf48c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Marco Zamboni",
+      "author_email": "marcozamboni2013107@gmail.com",
+      "author_github_handle": "ZamboniMarco99",
+      "repo_name": "interrogation-room-ai",
+      "__repo_name": "interrogation-room-ai",
+      "package_name": "interrogation_room_ai",
+      "package_description": "A game where you need to solve police cases by interrogating characters controlled by AI",
+      "package_emoji": "🕵️",
+      "requires_python": "3.11",
+      "__author_name": "Marco Zamboni",
+      "__package_description": "A game where you need to solve police cases by interrogating characters controlled by ai",
+      "__package_emoji": "🕵️ ",
+      "_template": "git@github.com:baggiponte/chef"
+    }
+  },
+  "directory": null
+}
